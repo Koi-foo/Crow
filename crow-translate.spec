@@ -7,8 +7,8 @@ Group: System/Internationalization
 Url: https://crow-translate.github.io
 Packager: Evgeny Chuck <koi at altlinux.org>
 
-Source: %name-%version.tar.gz
-# https://github.com/crow-translate/crow-translate/archive/refs/tags/v%version.tar.gz
+Source: %name-%version.tar
+# Source-url: https://github.com/crow-translate/crow-translate/archive/refs/tags/v%version.tar.gz
 
 # Automatically added by buildreq on Tue Jun 01 2021 (-bi)
 # optimized out: ca-trust cmake cmake-modules elfutils fontconfig-devel gcc-c++ glibc-kernheaders-generic glibc-kernheaders-x86 gtk-update-icon-cache leptonica libICE-devel libSM-devel libX11-devel libXScrnSaver-devel libXau-devel libXcomposite-devel libXcursor-devel libXdamage-devel libXdmcp-devel libXext-devel libXfixes-devel libXft-devel libXi-devel libXinerama-devel libXmu-devel libXpm-devel libXrandr-devel libXrender-devel libXt-devel libXtst-devel libXv-devel libXxf86misc-devel libXxf86vm-devel libfreetype-devel libglvnd-devel libgpg-error libqt5-concurrent libqt5-core libqt5-dbus libqt5-gui libqt5-multimedia libqt5-network libqt5-widgets libqt5-x11extras libqt5-xml libsasl2-3 libstdc++-devel libxcb-devel libxkbfile-devel pkg-config python-base python-modules qt5-base-devel qt5-tools sh4 tesseract xorg-proto-devel xorg-xf86miscproto-devel
