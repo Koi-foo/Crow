@@ -59,7 +59,7 @@ text using Google, Yandex and Bing written with Qt5.
 %cmake_build
 
 %install
-%cmakeinstall_std
+%cmake_install
 
 %files
 %doc README.md COPYING
