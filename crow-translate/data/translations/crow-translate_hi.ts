@@ -42,12 +42,12 @@
     <message>
         <location filename="../../src/settings/appsettings.cpp" line="201"/>
         <source>Unable to copy %1 to %2</source>
-        <translation>कॉपी करने में असमर्थ %1 से %2</translation>
+        <translation>%1 से %2 कॉपी करने में असमर्थ</translation>
     </message>
     <message>
         <location filename="../../src/settings/appsettings.cpp" line="205"/>
         <source>Unable to remove %1 from %2</source>
-        <translation>हटाने में असमर्थ %1 से %2</translation>
+        <translation>%1 से %2 हटाने में असमर्थ</translation>
     </message>
     <message>
         <location filename="../../src/settings/appsettings.cpp" line="1129"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="../../src/cli.cpp" line="360"/>
         <source>Error: You can&apos;t use --%1 with --%2</source>
-        <translation>त्रुटि: आप उपयोग नहीं कर सकते --%1 साथ --%2</translation>
+        <translation>त्रुटि: उपयोग &apos;नहीं किया जा सकता --%1 साथ --%2</translation>
     </message>
     <message>
         <location filename="../../src/cli.cpp" line="134"/>
